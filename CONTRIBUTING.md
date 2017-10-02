@@ -1,10 +1,10 @@
 # Contributing
 
-Please add your notes (or add to others notes) from [WordCamp Toronto 2017] (https://2017.toronto.wordcamp.org/). 
+Please add your notes (or add to others notes) from [WordCamp Toronto 2017](https://2017.toronto.wordcamp.org/). 
 
 Please make sure to use the title of the presentation as the file name, and add the speaker twitter username in the first couple of lines of the note.
 
-All the notes you add will be under [Unlicense] (https://unlicense.org/), this cannot be revoke.
+All the notes you add will be under [Unlicense](https://unlicense.org/), this cannot be revoke.
 
 ## Code of Conduct
 
