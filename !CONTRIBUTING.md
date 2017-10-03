@@ -4,7 +4,7 @@ Please add your notes (or add to others notes) from [WordCamp Toronto 2017](http
 
 Please make sure to use the title of the presentation as the file name, and add the speaker twitter username in the first couple of lines of the note.
 
-All the notes you add will be under [Unlicense](https://unlicense.org/), this cannot be revoke.
+All the notes you add will be under [Unlicense](https://unlicense.org/), this cannot be revoked.
 
 ## Code of Conduct
 
@@ -63,7 +63,7 @@ further defined and clarified by project maintainers.
 ### Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at githubprojectabuse@gregoryhammond.ca. All
+reported by contacting the project team at githubrepoabuse@gregoryhammond.ca. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
